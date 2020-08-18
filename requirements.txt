@@ -1,3 +1,4 @@
+matplotlib
 numpy
 pandas 
 sklearn 
@@ -5,3 +6,4 @@ plotly
 wandb
 keras
 tensorflow
+
